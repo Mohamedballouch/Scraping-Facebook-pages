@@ -28,7 +28,7 @@ Output contains:
 ![image](https://user-images.githubusercontent.com/28219393/93243464-22351480-f780-11ea-8edb-f7923bf2988b.png)
 
 ### Search method:
-Most liked
-Most commented
-Most shared
+- Most liked
+- Most commented
+- Most shared
 ![image](https://user-images.githubusercontent.com/28219393/93243114-a4710900-f77f-11ea-9a7b-ec56eaacdbd9.png)
